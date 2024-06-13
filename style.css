@@ -58,6 +58,7 @@ body {
 .perfil__foto {
     width: 150px;
     border-radius: 10px;
+    height: 150px;
 }
 
 li:hover .perfil__foto {
